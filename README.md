@@ -1,4 +1,4 @@
-# Discord-Song-Guesser
+# Discord Song GuesserBot
 
 - [What is this repo for](#what-is-this-repo-for)
 - [Bot Slash-Commands](#bot-slash-commands)
