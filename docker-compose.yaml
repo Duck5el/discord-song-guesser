@@ -1,0 +1,10 @@
+version: "3"
+services:
+    discord-bot:
+        image: ducksel/discord-song-guesser:latest
+        volumes:
+          - ./GamesConfig.json:/GamesConfig.json:rw
+          - ./replacements.txt:/replacements.txt
+        env_file:
+          - .env
+        command: ["java", "-jar", "-DBotToken=$TOKEN", "-DSpotifyClientId=$SPOTIFY_CLIENT_ID", "-DSpotifyClientSecret=$SPOTIFY_CLIENT_SECRET", "-DGamesConfig=/GamesConfig.json", "-DReplacementFile=/replacements.txt", "/app.jar"]

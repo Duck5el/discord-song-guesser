@@ -1,0 +1,6 @@
+.gradle
+.classpath
+
+build/
+/.gitattributes
+/.project
