@@ -3,6 +3,7 @@
 - [What is this repo for](#what-is-this-repo-for)
 - [Bot Slash-Commands](#bot-slash-commands)
 - [Getting started](#getting-started)
+- [Nice to know](#nice-to-know)
 - [Minimum permission requirements for the bot](#minimum-permission-requirements-for-the-bot)
 
 ## [What is this repo for](#what-is-this-repo-for)
@@ -42,7 +43,7 @@ Running in code:
 
 ---
 
-## Nice to know
+## [Nice to know](#nice-to-know)
 
 - To earn points, you have to guess at least 60% of the song title
 - If you guessed 40% of the track or too much, it notifies you that you are close
