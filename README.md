@@ -16,6 +16,8 @@ This repository hosts a Discord song guesser bot designed to engage you and your
 |start|Start a game by providing a link to a spotify playlist or multiple playlists seperated by `,` and amount of rounds|
 |cancel|Cancel game|
 
+![image1](./img/image1.png)
+
 ## [Getting started](#getting-started)
 
 ---
